@@ -22,7 +22,7 @@ var (
                            
 							   
 Made with ❤️ by Anda Toshiki at t.me/toshikidev
-SKM V%s-Bulk SSH key management from terminal at ease.
+SKM V%s-Bulk SSH key management from terminal at ease
 
 
 `
